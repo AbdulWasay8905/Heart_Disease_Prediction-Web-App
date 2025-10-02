@@ -51,7 +51,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 📌 App will be available at:
-👉 `https://dqeee3mwbwbnamcnnbj7ql.streamlit.app`
+👉 `https://heartdiseasepredictionwebappbyabdul.streamlit.app`
 
 ---
 
@@ -91,7 +91,7 @@ joblib==1.4.2
 
 ## 📸 Demo
 
-![Heart-Disease-Prediction App Screenshot](HeartDiseaseApp.png)
+![Heart-Disease-Prediction App Screenshot](HeartDiseaseAppDemo.png)
 
 ---
 
